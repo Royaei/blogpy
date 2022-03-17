@@ -1,8 +1,17 @@
 #ide
 .idea
 
+#venv
+venv
+
 #sqlite db
 db.sqlite3
 
 #blog
 blog/migrations/
+
+#environment
+.env
+
+#static files
+files
